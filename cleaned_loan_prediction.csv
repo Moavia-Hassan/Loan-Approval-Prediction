@@ -18,7 +18,7 @@ LP001032,0,4950,0.0,125.0,360.0,1.0,Y,True,False,False,False,False,True
 LP001034,1,3596,0.0,100.0,240.0,1.0,Y,True,False,True,False,False,True
 LP001036,0,3510,0.0,76.0,360.0,0.0,N,False,False,False,False,False,True
 LP001038,0,4887,0.0,133.0,360.0,1.0,N,True,True,True,False,False,False
-LP001041,0,2600,3500.0,115.0,,1.0,Y,True,True,False,False,False,True
+LP001041,0,2600,3500.0,115.0,360.0,1.0,Y,True,True,False,False,False,True
 LP001043,0,7660,0.0,104.0,360.0,0.0,N,True,True,True,False,False,True
 LP001046,1,5955,5625.0,261.5,360.0,1.0,Y,True,True,False,False,False,True
 LP001047,0,2600,1911.0,116.0,360.0,0.0,N,True,True,True,False,True,False
@@ -35,7 +35,7 @@ LP001097,1,4692,0.0,106.0,360.0,1.0,N,True,False,False,True,False,False
 LP001098,0,3500,1667.0,114.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001100,3+,12500,3000.0,261.5,360.0,1.0,N,True,False,False,False,False,False
 LP001106,0,2275,2067.0,128.0,360.0,1.0,Y,True,True,False,False,False,True
-LP001109,0,1828,1330.0,100.0,,0.0,N,True,True,False,False,False,True
+LP001109,0,1828,1330.0,100.0,360.0,0.0,N,True,True,False,False,False,True
 LP001112,0,3667,1459.0,144.0,360.0,1.0,Y,False,True,False,False,True,False
 LP001114,0,4166,7210.0,184.0,360.0,1.0,Y,True,False,False,False,False,True
 LP001116,0,3748,1668.0,110.0,360.0,1.0,Y,True,False,True,False,True,False
@@ -43,8 +43,8 @@ LP001119,0,3600,0.0,80.0,360.0,1.0,N,True,False,False,False,False,True
 LP001120,0,1800,1213.0,47.0,360.0,1.0,Y,True,False,False,False,False,True
 LP001123,0,2400,0.0,75.0,360.0,1.0,Y,True,True,False,False,False,True
 LP001131,0,3941,2336.0,134.0,360.0,1.0,Y,True,True,False,False,True,False
-LP001136,0,4695,0.0,96.0,,1.0,Y,True,True,True,True,False,True
-LP001137,0,3410,0.0,88.0,,1.0,Y,False,False,False,False,False,True
+LP001136,0,4695,0.0,96.0,360.0,1.0,Y,True,True,True,True,False,True
+LP001137,0,3410,0.0,88.0,360.0,1.0,Y,False,False,False,False,False,True
 LP001138,1,5649,0.0,44.0,360.0,1.0,Y,True,True,False,False,False,True
 LP001144,0,5821,0.0,144.0,360.0,1.0,Y,True,True,False,False,False,True
 LP001146,0,2645,3440.0,120.0,360.0,0.0,N,False,True,False,False,False,True
@@ -72,7 +72,7 @@ LP001241,0,4300,0.0,136.0,360.0,0.0,N,False,False,False,False,True,False
 LP001243,0,3208,3066.0,172.0,360.0,1.0,Y,True,True,False,False,False,True
 LP001245,2,1875,1875.0,97.0,360.0,1.0,Y,True,True,True,True,True,False
 LP001248,0,3500,0.0,81.0,300.0,1.0,Y,True,False,False,False,True,False
-LP001250,3+,4755,0.0,95.0,,0.0,N,True,True,True,False,True,False
+LP001250,3+,4755,0.0,95.0,360.0,0.0,N,True,True,True,False,True,False
 LP001253,3+,5266,1774.0,187.0,360.0,1.0,Y,True,True,False,True,True,False
 LP001255,0,3750,0.0,113.0,480.0,1.0,N,True,False,False,False,False,True
 LP001256,0,3750,4750.0,176.0,360.0,1.0,N,True,False,False,False,False,True
@@ -111,7 +111,7 @@ LP001379,2,3800,3600.0,216.0,360.0,0.0,N,True,True,False,False,False,True
 LP001384,3+,2071,754.0,94.0,480.0,1.0,Y,True,True,True,False,True,False
 LP001385,0,5316,0.0,136.0,360.0,1.0,Y,True,False,False,False,False,True
 LP001387,0,2929,2333.0,139.0,360.0,1.0,Y,False,True,False,False,True,False
-LP001391,0,3572,4114.0,152.0,,0.0,N,True,True,True,False,False,False
+LP001391,0,3572,4114.0,152.0,360.0,0.0,N,True,True,True,False,False,False
 LP001392,1,7451,0.0,128.0,360.0,1.0,Y,False,False,False,True,True,False
 LP001398,0,5050,0.0,118.0,360.0,1.0,Y,True,False,False,False,True,False
 LP001401,1,14583,0.0,185.0,180.0,1.0,Y,True,True,False,False,False,False
@@ -164,7 +164,7 @@ LP001562,0,7933,0.0,261.5,360.0,1.0,N,True,True,False,False,False,True
 LP001565,1,3089,1280.0,121.0,360.0,0.0,N,True,True,False,False,True,False
 LP001570,2,4167,1447.0,158.0,360.0,1.0,Y,True,True,False,False,False,False
 LP001572,0,9323,0.0,75.0,180.0,1.0,Y,True,True,False,False,False,True
-LP001574,0,3707,3166.0,182.0,,1.0,Y,True,True,False,False,False,False
+LP001574,0,3707,3166.0,182.0,360.0,1.0,Y,True,True,False,False,False,False
 LP001577,0,4583,0.0,112.0,360.0,1.0,N,False,True,False,False,False,False
 LP001578,0,2439,3333.0,129.0,360.0,1.0,Y,True,True,False,False,False,False
 LP001579,0,2237,0.0,63.0,480.0,0.0,N,True,False,False,False,True,False
@@ -196,7 +196,7 @@ LP001658,0,3858,0.0,76.0,360.0,1.0,Y,True,False,False,False,True,False
 LP001664,0,4191,0.0,120.0,360.0,1.0,Y,True,False,False,False,False,False
 LP001665,1,3125,2583.0,170.0,360.0,1.0,N,True,True,False,False,True,False
 LP001666,0,8333,3750.0,187.0,360.0,1.0,Y,True,False,False,False,False,False
-LP001669,0,1907,2365.0,120.0,,1.0,Y,False,False,True,False,False,True
+LP001669,0,1907,2365.0,120.0,360.0,1.0,Y,False,False,True,False,False,True
 LP001671,0,3416,2816.0,113.0,360.0,1.0,Y,False,True,False,False,True,False
 LP001673,0,11000,0.0,83.0,360.0,1.0,N,True,False,False,True,False,True
 LP001674,1,2600,2500.0,90.0,360.0,1.0,Y,True,True,True,False,True,False
@@ -222,7 +222,7 @@ LP001734,2,4283,2383.0,127.0,360.0,1.0,Y,False,True,False,False,True,False
 LP001736,0,2221,0.0,60.0,360.0,0.0,N,True,True,False,False,False,True
 LP001743,2,4009,1717.0,116.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001744,0,2971,2791.0,144.0,360.0,1.0,Y,True,False,False,False,True,False
-LP001749,0,7578,1010.0,175.0,,1.0,Y,True,True,False,False,True,False
+LP001749,0,7578,1010.0,175.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001750,0,6250,0.0,128.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001751,0,3250,0.0,170.0,360.0,1.0,N,True,True,False,False,False,False
 LP001754,0,4735,0.0,138.0,360.0,1.0,N,True,True,True,True,False,True
@@ -231,7 +231,7 @@ LP001760,0,4758,0.0,158.0,480.0,1.0,Y,True,True,False,False,True,False
 LP001761,0,6400,0.0,200.0,360.0,1.0,Y,True,False,False,True,False,False
 LP001765,1,2491,2054.0,104.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001768,0,3716,0.0,42.0,180.0,1.0,Y,True,True,False,False,False,False
-LP001770,0,3189,2598.0,120.0,,1.0,Y,True,False,True,False,False,False
+LP001770,0,3189,2598.0,120.0,360.0,1.0,Y,True,False,True,False,False,False
 LP001776,0,8333,0.0,261.5,360.0,1.0,Y,False,False,False,False,True,False
 LP001778,1,3155,1779.0,140.0,360.0,1.0,Y,True,True,False,False,True,False
 LP001784,1,5500,1260.0,170.0,360.0,1.0,Y,True,True,False,False,False,False
@@ -334,7 +334,7 @@ LP002098,0,2935,0.0,98.0,360.0,1.0,Y,True,False,False,False,True,False
 LP002100,0,2833,0.0,71.0,360.0,1.0,Y,True,False,False,False,False,True
 LP002101,0,63337,0.0,261.5,180.0,1.0,Y,True,True,False,False,False,True
 LP002103,1,9833,1833.0,182.0,180.0,1.0,Y,True,True,False,True,False,True
-LP002106,0,5503,4490.0,70.0,,1.0,Y,True,True,False,True,True,False
+LP002106,0,5503,4490.0,70.0,360.0,1.0,Y,True,True,False,True,True,False
 LP002110,1,5250,688.0,160.0,360.0,1.0,Y,True,True,False,False,False,False
 LP002112,2,2500,4600.0,176.0,360.0,1.0,Y,True,True,False,True,False,False
 LP002113,3+,1830,0.0,128.0,360.0,0.0,N,False,False,True,False,False,True
@@ -366,7 +366,7 @@ LP002178,0,3013,3033.0,95.0,300.0,1.0,Y,True,True,False,False,False,True
 LP002180,0,6822,0.0,141.0,360.0,1.0,Y,True,False,False,True,False,False
 LP002181,0,6216,0.0,133.0,360.0,1.0,N,True,False,True,False,False,False
 LP002187,0,2500,0.0,96.0,480.0,1.0,N,True,False,False,False,True,False
-LP002188,0,5124,0.0,124.0,,0.0,N,True,False,False,False,False,False
+LP002188,0,5124,0.0,124.0,360.0,0.0,N,True,False,False,False,False,False
 LP002190,1,6325,0.0,175.0,360.0,1.0,Y,True,True,False,False,True,False
 LP002191,0,19730,5266.0,261.5,360.0,1.0,N,True,True,False,False,False,False
 LP002194,0,15759,0.0,55.0,360.0,1.0,Y,False,False,False,True,True,False
@@ -420,9 +420,9 @@ LP002342,2,1600,20000.0,239.0,360.0,1.0,N,True,True,False,True,False,True
 LP002345,0,1025,2773.0,112.0,360.0,1.0,Y,True,True,False,False,False,False
 LP002347,0,3246,1417.0,138.0,360.0,1.0,Y,True,True,False,False,True,False
 LP002348,0,5829,0.0,138.0,360.0,1.0,Y,True,True,False,False,False,False
-LP002357,0,2720,0.0,80.0,,0.0,N,False,False,True,False,False,True
+LP002357,0,2720,0.0,80.0,360.0,0.0,N,False,False,True,False,False,True
 LP002361,0,1820,1719.0,100.0,360.0,1.0,Y,True,True,False,False,False,True
-LP002362,1,7250,1667.0,110.0,,0.0,N,True,True,False,False,False,True
+LP002362,1,7250,1667.0,110.0,360.0,0.0,N,True,True,False,False,False,True
 LP002364,0,14880,0.0,96.0,360.0,1.0,Y,True,True,False,False,True,False
 LP002366,0,2666,4300.0,121.0,360.0,1.0,Y,True,True,False,False,False,False
 LP002367,1,4606,0.0,81.0,360.0,1.0,N,False,False,True,False,False,False
